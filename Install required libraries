@@ -1,0 +1,7 @@
+Open your terminal in the project folder:
+
+pip install pandas numpy matplotlib scikit-learn
+
+Then run:
+
+python athlete_training_load_forecast.py
